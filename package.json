@@ -1,5 +1,6 @@
 {
 	"author": "Kw Heng",
+	"description": "A project to get started in backed",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
